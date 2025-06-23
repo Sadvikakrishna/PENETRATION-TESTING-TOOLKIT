@@ -27,6 +27,12 @@ intended for educational or internal testing purposes and provides a foundationa
 penetration testing.
 
 
+*OUTPUT* :
+
+
+![Image](https://github.com/user-attachments/assets/22203976-992d-4529-8988-db4cad2155cb)
+
+
 
 
 
